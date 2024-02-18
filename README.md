@@ -1,7 +1,7 @@
 # Quiz-App
 
 <p align="center">
-  <img src="" alt="Quiz-App Logo" width="300px" height="300px">
+  <img src="https://github.com/KhoirulHusein/quiz-app/blob/master/public/favicon.png" alt="Quiz-App Logo" width="300px" height="300px">
 </p>
 
 <h3 align="center">Challenge Your Skills with Quiz-App</h3>
